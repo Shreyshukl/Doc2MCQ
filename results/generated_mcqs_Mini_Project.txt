@@ -1,0 +1,53 @@
+## MCQ 1
+Question: What is the primary focus of the mini project?
+
+A) Analyzing the evolution of SMS communication
+B) Developing a system for detecting SMS spam using AI
+C) Comparing different telecommunication service providers
+D) Studying the impact of spam on cybersecurity
+
+Correct Answer: B
+
+
+## MCQ 2
+Question: Which machine learning models are highlighted in the literature review as effective for SMS spam detection?
+
+A) Support Vector Machines and K-Nearest Neighbors
+B) Linear Regression and Logistic Regression
+C) Random Forests and Gradient Boosting
+D) Decision Trees and Neural Networks
+
+Correct Answer: C
+
+
+## MCQ 3
+Question: What data preprocessing techniques are used in the project's methodology?
+
+A) Data normalization and standardization
+B) Converting text to lowercase, tokenization, removing stopwords and punctuation
+C) Handling missing data with imputation
+D) Dimensionality reduction using Principal Component Analysis
+
+Correct Answer: B
+
+
+## MCQ 4
+Question: Besides accuracy, which other metric is used to evaluate the model's performance?
+
+A) Recall and F1-score
+B) Root Mean Squared Error
+C) Confusion matrix and precision
+D) Area Under the Curve (AUC)
+
+Correct Answer: C
+
+
+## MCQ 5
+Question: What is the name of the student who submitted this project?
+
+A) MR. SS Samant
+B) SHREY SHUKLA
+C) Graphic Era University
+D)  Department of Computer Science and Engineering
+
+Correct Answer: B 
